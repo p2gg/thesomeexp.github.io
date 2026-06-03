@@ -22,8 +22,7 @@
 </div>
 <nav id="main-nav" class="alignright">
   <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/archives">Archives</a></li>
+      <li><a href="/home">Home</a></li>
       <li><a href="/about">About</a></li>
       <li><a href="/links">Links</a></li>
   </ul>
@@ -32,207 +31,117 @@
 <div class="clearfix"></div>
 </header>
   <div id="content" class="inner">
-    <div id="main-col" class="alignleft"><div id="wrapper">
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2019/learn-to-record-the-learning-process/">学会记录学习过程</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2019-02-17T16:00:00.000Z">2019-02-18</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>最近这段时间感觉和大学开学一样甚是迷茫, 和刚入学的迷茫不一样, 刚入学可能以为好好学习, 跟上学校课程就不需要担心未来, 安安心心等学校分配工作. </p>
-            
-        </div>
-        
-
-        
+    <div id="main-col" class="alignleft"><div id="wrapper"><!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>p2gg</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      height: 100%;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    }
+    
+    body {
+      background: url('https://picsum.photos/1920/1080?random=1') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+      position: relative;
+    }
+    
+    body::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.3);
+      z-index: 1;
+    }
+    
+    .container {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      width: 100%;
+      max-width: 400px;
+    }
+    
+    .nav-links {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    
+    .nav-link {
+      background: rgba(0, 0, 0, 0.45);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 18px 24px;
+      text-decoration: none;
+      color: #ffffff;
+      font-size: 16px;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    
+    .nav-link:hover {
+      background: rgba(0, 0, 0, 0.75);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    }
+    
+    .nav-link:active {
+      transform: translateY(0);
+    }
+    
+    .nav-link svg {
+      width: 20px;
+      height: 20px;
+      fill: currentColor;
+    }
+    
+    @media (max-width: 480px) {
+      .nav-link {
+        padding: 16px 20px;
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="nav-links">
+      <a href="/home" class="nav-link">
+        Blog 首页
+      </a>
+      <a target="_blank" rel="noopener" href="https://dw.p2gg.com" class="nav-link">
+        机场推荐
+      </a>
     </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2018/sideload-ota-updates-on-google-pixel/">Pixel 1 sideload ota 更新</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2018-10-19T16:00:00.000Z">2018-10-20</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>记录一下使用 adb 工具 sideload ota 的过程.
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2018/change-MIFARE-cards-access-bits/">修改 MIFARE 卡的控制位</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2018-03-20T16:00:00.000Z">2018-03-21</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>控制字为4个字节,共32位,扇区中的每个块的存取条件是由密码和控制字共同决定的,在控制字中每个块都有相应的三个控制位.这三个控制位的值各为0或1.我们以控制字7F078869为例子.
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2018/self-reflection-2018/">时常要明白</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2018-03-17T16:00:00.000Z">2018-03-18</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>大一已步入第二个学期, 这个时候的我在想些什么呢. </p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2018/clone-uid-card/">克隆一张 UID 卡(门禁卡)</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2018-01-09T16:00:00.000Z">2018-01-10</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>21世纪初门禁系统运用得比较广泛了，最常见的莫过于刷卡的门禁。这篇文章以MIFARE卡为例，克隆一张可用的门禁卡。<br>工具：可读写MIFARE卡片的手机(图为YoutaPhone 2)，白卡，一卡通门禁卡。</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2017/annual-summary/">2017年年度小结</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2017-12-30T16:00:00.000Z">2017-12-31</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>上半年是高三的下班学期吧, 其实到现在已经不怎么清楚当时的情况了, 毕竟是一年前的事了, 6月7日和8日是高考的时候, 在高考前一百天都有辍学的念头, 但实际上这根本做不到, 辍学了既不能比较好的养活自己, 也不知道应该做什么.
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2017/communication-should-be-concise/">交流应该简明扼要</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2017-07-22T16:00:00.000Z">2017-07-23</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>关于知识, 交流, 效率, 传播媒介的一点想法. </p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2017/history/">博客历史</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2017-07-10T16:00:00.000Z">2017-07-11</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>记录博客的变动历史. </p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-
-<nav id="pagination">
-  
-    <a href="/page/3/" class="alignleft prev">上一页</a>
-  
-  
-  <div class="clearfix"></div>
-</nav></div></div>
+    
+  </div>
+</body>
+</html></div></div>
     <aside id="sidebar" class="alignright">
   
 <div class="widget tag">
@@ -247,7 +156,7 @@
     <li><a href="/tags/Git/">Git</a><small>1</small></li>
     <li><a href="/tags/Hexo/">Hexo</a><small>1</small></li>
     <li><a href="/tags/Java/">Java</a><small>5</small></li>
-    <li><a href="/tags/Lifestyle/">Lifestyle</a><small>2</small></li>
+    <li><a href="/tags/Lifestyle/">Lifestyle</a><small>1</small></li>
     <li><a href="/tags/Maven/">Maven</a><small>1</small></li>
     <li><a href="/tags/MySQL/">MySQL</a><small>1</small></li>
     <li><a href="/tags/Network/">Network</a><small>2</small></li>

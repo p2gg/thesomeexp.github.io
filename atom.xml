@@ -1,373 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>p2gg</title>
-  
-  
-  <link href="https://p2gg.com/atom.xml" rel="self"/>
-  
-  <link href="https://p2gg.com/"/>
-  <updated>2026-04-05T04:00:00.000Z</updated>
-  <id>https://p2gg.com/</id>
-  
   <author>
     <name>thesomeexp</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <id>https://p2gg.com/</id>
+  <link href="https://p2gg.com/" rel="alternate"/>
+  <link href="https://p2gg.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, thesomeexp</rights>
+  <subtitle>希望世界更开源, 透明与自由.</subtitle>
+  <title>p2gg</title>
+  <updated>2026-04-05T04:00:00.000Z</updated>
   <entry>
-    <title>洛克王国:世界, 图鉴工具, 属性克制计算器</title>
-    <link href="https://p2gg.com/2026/roco-tool/"/>
-    <id>https://p2gg.com/2026/roco-tool/</id>
-    <published>2026-04-05T04:00:00.000Z</published>
-    <updated>2026-04-05T04:00:00.000Z</updated>
-    
-    
-    <summary type="html">游戏相关工具.</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Game" scheme="https://p2gg.com/tags/Game/"/>
-    
+    <id>https://p2gg.com/2026/roco-tool/</id>
+    <link href="https://p2gg.com/2026/roco-tool/"/>
+    <published>2026-04-05T04:00:00.000Z</published>
+    <summary>游戏相关工具.</summary>
+    <title>洛克王国:世界, 图鉴工具, 属性克制计算器</title>
+    <updated>2026-04-05T04:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>2025及历年个人年度好物推荐</title>
-    <link href="https://p2gg.com/2026/awesome-shopping/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <id>https://p2gg.com/2026/awesome-shopping/</id>
+    <link href="https://p2gg.com/2026/awesome-shopping/"/>
     <published>2026-02-25T13:00:00.000Z</published>
+    <summary>精选好物.</summary>
+    <title>2025及历年个人年度好物推荐</title>
     <updated>2026-02-25T13:00:00.000Z</updated>
-    
-    
-    <summary type="html">精选好物.</summary>
-    
-    
-    
-    
   </entry>
-  
   <entry>
-    <title>干眼人的湿房镜, 巩膜镜佩戴体验</title>
-    <link href="https://p2gg.com/2025/lenses-about-dry-eyes/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <id>https://p2gg.com/2025/lenses-about-dry-eyes/</id>
+    <link href="https://p2gg.com/2025/lenses-about-dry-eyes/"/>
     <published>2025-10-15T16:00:00.000Z</published>
+    <summary>干眼后的物理防护经历.</summary>
+    <title>干眼人的湿房镜, 巩膜镜佩戴体验</title>
     <updated>2025-10-15T16:30:00.000Z</updated>
-    
-    
-    <summary type="html">干眼后的物理防护经历.</summary>
-    
-    
-    
-    
   </entry>
-  
   <entry>
-    <title>利用 Cloudflare Workers 来回显请求</title>
-    <link href="https://p2gg.com/2025/echo-request-by-cloudflare-workers/"/>
-    <id>https://p2gg.com/2025/echo-request-by-cloudflare-workers/</id>
-    <published>2025-07-31T05:00:00.000Z</published>
-    <updated>2025-07-31T05:00:00.000Z</updated>
-    
-    
-    <summary type="html">边缘计算实现在线 Mock 小工具.</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Dev" scheme="https://p2gg.com/tags/Dev/"/>
-    
+    <id>https://p2gg.com/2025/echo-request-by-cloudflare-workers/</id>
+    <link href="https://p2gg.com/2025/echo-request-by-cloudflare-workers/"/>
+    <published>2025-07-31T05:00:00.000Z</published>
+    <summary>边缘计算实现在线 Mock 小工具.</summary>
+    <title>利用 Cloudflare Workers 来回显请求</title>
+    <updated>2025-07-31T05:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>2024年年度碎碎念</title>
-    <link href="https://p2gg.com/2024/annual-summary/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
+    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
     <id>https://p2gg.com/2024/annual-summary/</id>
+    <link href="https://p2gg.com/2024/annual-summary/"/>
     <published>2024-12-25T16:00:00.000Z</published>
+    <summary>What doesn't kill you makes you stronger.</summary>
+    <title>2024年年度碎碎念</title>
     <updated>2024-12-25T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">What doesn&#39;t kill you makes you stronger.</summary>
-    
-    
-    
-    
+  </entry>
+  <entry>
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>选购推荐清单</title>
-    <link href="https://p2gg.com/2024/shopping/"/>
-    <id>https://p2gg.com/2024/shopping/</id>
-    <published>2024-08-29T16:00:00.000Z</published>
-    <updated>2024-08-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;之前写的&lt;a href=&quot;/2022/life-notes&quot;&gt;生活笔记&lt;/a&gt;网友反馈还行, 希望我能出一份带图文和链接的, 于是就诞生了这篇.&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Lifestyle" scheme="https://p2gg.com/tags/Lifestyle/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2023年年度小结</title>
-    <link href="https://p2gg.com/2023/annual-summary/"/>
     <id>https://p2gg.com/2023/annual-summary/</id>
+    <link href="https://p2gg.com/2023/annual-summary/"/>
     <published>2023-12-22T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>copy 2020, paste 2023.</p>]]>
+    </summary>
+    <title>2023年年度小结</title>
     <updated>2023-12-22T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;copy 2020, paste 2023.&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    
   </entry>
-  
   <entry>
-    <title>生活笔记</title>
-    <link href="https://p2gg.com/2022/life-notes/"/>
-    <id>https://p2gg.com/2022/life-notes/</id>
-    <published>2022-01-28T16:00:00.000Z</published>
-    <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">丁香生活研究所的文章整理. 选购, 种草笔记.</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    
     <category term="Lifestyle" scheme="https://p2gg.com/tags/Lifestyle/"/>
-    
+    <id>https://p2gg.com/2022/life-notes/</id>
+    <link href="https://p2gg.com/2022/life-notes/"/>
+    <published>2022-01-28T16:00:00.000Z</published>
+    <summary>丁香生活研究所的文章整理. 选购, 种草笔记.</summary>
+    <title>生活笔记</title>
+    <updated>2022-05-29T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>如何使用 Android</title>
-    <link href="https://p2gg.com/2021/how-to-use-android/"/>
-    <id>https://p2gg.com/2021/how-to-use-android/</id>
-    <published>2021-04-14T16:00:00.000Z</published>
-    <updated>2021-04-14T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用?</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Phone" scheme="https://p2gg.com/tags/Phone/"/>
-    
     <category term="Android" scheme="https://p2gg.com/tags/Android/"/>
-    
+    <id>https://p2gg.com/2021/how-to-use-android/</id>
+    <link href="https://p2gg.com/2021/how-to-use-android/"/>
+    <published>2021-04-14T16:00:00.000Z</published>
+    <summary>使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用?</summary>
+    <title>如何使用 Android</title>
+    <updated>2021-04-14T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Cookie 和 Session</title>
-    <link href="https://p2gg.com/2021/cookie-and-session/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
+    <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
     <id>https://p2gg.com/2021/cookie-and-session/</id>
+    <link href="https://p2gg.com/2021/cookie-and-session/"/>
     <published>2021-03-15T16:00:00.000Z</published>
+    <summary>Cookie, Session, Token, SessionId 到底是什么?</summary>
+    <title>Cookie 和 Session</title>
     <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">Cookie, Session, Token, SessionId 到底是什么?</summary>
-    
-    
-    
-    
-    <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
-    
   </entry>
-  
   <entry>
-    <title>MySQL 的学习</title>
-    <link href="https://p2gg.com/2021/mysql-learning/"/>
-    <id>https://p2gg.com/2021/mysql-learning/</id>
-    <published>2021-02-21T16:00:00.000Z</published>
-    <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">关于 MySQL 基础, 架构, 事物, 并发, 索引的笔记.</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="MySQL" scheme="https://p2gg.com/tags/MySQL/"/>
-    
+    <id>https://p2gg.com/2021/mysql-learning/</id>
+    <link href="https://p2gg.com/2021/mysql-learning/"/>
+    <published>2021-02-21T16:00:00.000Z</published>
+    <summary>关于 MySQL 基础, 架构, 事物, 并发, 索引的笔记.</summary>
+    <title>MySQL 的学习</title>
+    <updated>2022-05-29T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Servlet 中的 Filter</title>
-    <link href="https://p2gg.com/2021/servlet-filter/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
+    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
     <id>https://p2gg.com/2021/servlet-filter/</id>
+    <link href="https://p2gg.com/2021/servlet-filter/"/>
     <published>2021-02-19T16:00:00.000Z</published>
+    <summary>记录一些 Tomcat 容器中常见的 Filter 和作用.</summary>
+    <title>Servlet 中的 Filter</title>
     <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">记录一些 Tomcat 容器中常见的 Filter 和作用.</summary>
-    
-    
-    
-    
-    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    
   </entry>
-  
   <entry>
-    <title>计算机相关书单</title>
-    <link href="https://p2gg.com/2021/books-about-computer-science/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
+    <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
     <id>https://p2gg.com/2021/books-about-computer-science/</id>
+    <link href="https://p2gg.com/2021/books-about-computer-science/"/>
     <published>2020-12-31T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>计算机相关的书单, 非计算机类的书单请请看<a href="/2020/the-book-i-read">这里这里</a>. </p>]]>
+    </summary>
+    <title>计算机相关书单</title>
     <updated>2022-10-18T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;计算机相关的书单, 非计算机类的书单请请看&lt;a href=&quot;/2020/the-book-i-read&quot;&gt;这里这里&lt;/a&gt;. &lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
-    
   </entry>
-  
   <entry>
-    <title>2020年年度小结</title>
-    <link href="https://p2gg.com/2020/annual-summary/"/>
+    <author>
+      <name>thesomeexp</name>
+    </author>
+    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
     <id>https://p2gg.com/2020/annual-summary/</id>
+    <link href="https://p2gg.com/2020/annual-summary/"/>
     <published>2020-12-29T16:00:00.000Z</published>
+    <summary>2020这年我在想些什么呢?</summary>
+    <title>2020年年度小结</title>
     <updated>2020-12-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">2020这年我在想些什么呢?</summary>
-    
-    
-    
-    
-    <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    
   </entry>
-  
   <entry>
-    <title>Maven 笔记</title>
-    <link href="https://p2gg.com/2020/maven-notes/"/>
-    <id>https://p2gg.com/2020/maven-notes/</id>
-    <published>2020-11-29T16:00:00.000Z</published>
-    <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">Maven 笔记.</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    
     <category term="Maven" scheme="https://p2gg.com/tags/Maven/"/>
-    
+    <id>https://p2gg.com/2020/maven-notes/</id>
+    <link href="https://p2gg.com/2020/maven-notes/"/>
+    <published>2020-11-29T16:00:00.000Z</published>
+    <summary>Maven 笔记.</summary>
+    <title>Maven 笔记</title>
+    <updated>2022-05-29T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>计算机网络基础知识</title>
-    <link href="https://p2gg.com/2020/basic-computer-network/"/>
-    <id>https://p2gg.com/2020/basic-computer-network/</id>
-    <published>2020-10-30T16:00:00.000Z</published>
-    <updated>2025-09-22T07:09:25.255Z</updated>
-    
-    
-    <summary type="html">记录计算机网络学习的笔记.</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    
     <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
-    
+    <id>https://p2gg.com/2020/basic-computer-network/</id>
+    <link href="https://p2gg.com/2020/basic-computer-network/"/>
+    <published>2020-10-30T16:00:00.000Z</published>
+    <summary>记录计算机网络学习的笔记.</summary>
+    <title>计算机网络基础知识</title>
+    <updated>2026-06-03T04:41:39.444Z</updated>
   </entry>
-  
   <entry>
-    <title>Spring 的学习</title>
-    <link href="https://p2gg.com/2020/spring-learning/"/>
-    <id>https://p2gg.com/2020/spring-learning/</id>
-    <published>2020-10-26T16:00:00.000Z</published>
-    <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">记录 Spring 的学习笔记</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    
     <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
-    
     <category term="Spring" scheme="https://p2gg.com/tags/Spring/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nginx 搭建图片服务器</title>
-    <link href="https://p2gg.com/2020/serve-image-with-nginx/"/>
-    <id>https://p2gg.com/2020/serve-image-with-nginx/</id>
-    <published>2020-06-12T16:00:00.000Z</published>
+    <id>https://p2gg.com/2020/spring-learning/</id>
+    <link href="https://p2gg.com/2020/spring-learning/"/>
+    <published>2020-10-26T16:00:00.000Z</published>
+    <summary>记录 Spring 的学习笔记</summary>
+    <title>Spring 的学习</title>
     <updated>2022-05-29T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">使用 Docker 和 Nginx 搭建图片服务器的示例.</summary>
-    
-    
-    
-    
+  </entry>
+  <entry>
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    
     <category term="Nginx" scheme="https://p2gg.com/tags/Nginx/"/>
-    
     <category term="Docker" scheme="https://p2gg.com/tags/Docker/"/>
-    
+    <id>https://p2gg.com/2020/serve-image-with-nginx/</id>
+    <link href="https://p2gg.com/2020/serve-image-with-nginx/"/>
+    <published>2020-06-12T16:00:00.000Z</published>
+    <summary>使用 Docker 和 Nginx 搭建图片服务器的示例.</summary>
+    <title>Nginx 搭建图片服务器</title>
+    <updated>2022-05-29T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>快速操作笔记</title>
-    <link href="https://p2gg.com/2020/quick-operation-note/"/>
-    <id>https://p2gg.com/2020/quick-operation-note/</id>
-    <published>2020-05-28T16:00:00.000Z</published>
-    <updated>2020-05-28T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;那些搜索过两次以上的解决办法. &lt;/p&gt;</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    
+    <id>https://p2gg.com/2020/quick-operation-note/</id>
+    <link href="https://p2gg.com/2020/quick-operation-note/"/>
+    <published>2020-05-28T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>那些搜索过两次以上的解决办法. </p>]]>
+    </summary>
+    <title>快速操作笔记</title>
+    <updated>2020-05-28T16:00:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>看过的书</title>
-    <link href="https://p2gg.com/2020/the-book-i-read/"/>
-    <id>https://p2gg.com/2020/the-book-i-read/</id>
-    <published>2020-05-13T16:00:00.000Z</published>
-    <updated>2024-03-02T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;非计算机相关的书单. 计算机类的书单请请看&lt;a href=&quot;/2021/books-about-computer-science&quot;&gt;这里这里&lt;/a&gt;. &lt;/p&gt;</summary>
-    
-    
-    
-    
+    <author>
+      <name>thesomeexp</name>
+    </author>
     <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
-    
     <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
-    
+    <id>https://p2gg.com/2020/the-book-i-read/</id>
+    <link href="https://p2gg.com/2020/the-book-i-read/"/>
+    <published>2020-05-13T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>非计算机相关的书单. 计算机类的书单请请看<a href="/2021/books-about-computer-science">这里这里</a>. </p>]]>
+    </summary>
+    <title>看过的书</title>
+    <updated>2024-03-02T16:00:00.000Z</updated>
   </entry>
-  
+  <entry>
+    <author>
+      <name>thesomeexp</name>
+    </author>
+    <category term="Win10" scheme="https://p2gg.com/tags/Win10/"/>
+    <id>https://p2gg.com/2020/scoop-notes/</id>
+    <link href="https://p2gg.com/2020/scoop-notes/"/>
+    <published>2020-05-06T16:00:00.000Z</published>
+    <summary>简单记录下 Scoop 使用指南.</summary>
+    <title>Scoop 笔记</title>
+    <updated>2022-11-15T16:00:00.000Z</updated>
+  </entry>
 </feed>

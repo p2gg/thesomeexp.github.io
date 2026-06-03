@@ -4,323 +4,111 @@
 <head>
   <meta charset="utf-8">
   <title>p2gg</title>
-  <meta name="author" content="thesomeexp">
-  <meta name="description" content="希望世界更开源, 透明与自由.">
-  <meta name="og:description" content="希望世界更开源, 透明与自由.">  
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:image" content="/unicorn.jpg"/>
-  <meta property="og:title" content="p2gg"/>  
-  <meta property="og:site_name" content="p2gg"/>
-  <link rel="icon" href="/unicorn.jpg">
-  <link rel="stylesheet" href="/css/style.css" media="all" type="text/css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      height: 100%;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    }
+    
+    body {
+      background: url('https://picsum.photos/1920/1080?random=1') no-repeat center center fixed;
+      background-size: cover;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+      position: relative;
+    }
+    
+    body::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.3);
+      z-index: 1;
+    }
+    
+    .container {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      width: 100%;
+      max-width: 400px;
+    }
+    
+    .nav-links {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    
+    .nav-link {
+      background: rgba(0, 0, 0, 0.45);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 18px 24px;
+      text-decoration: none;
+      color: #ffffff;
+      font-size: 16px;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    
+    .nav-link:hover {
+      background: rgba(0, 0, 0, 0.75);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    }
+    
+    .nav-link:active {
+      transform: translateY(0);
+    }
+    
+    .nav-link svg {
+      width: 20px;
+      height: 20px;
+      fill: currentColor;
+    }
+    
+    @media (max-width: 480px) {
+      .nav-link {
+        padding: 16px 20px;
+        font-size: 15px;
+      }
+    }
+  </style>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="p2gg" type="application/atom+xml">
 <link rel="alternate" href="/rss2.xml" title="p2gg" type="application/rss+xml">
 </head>
 <body>
-  <header id="header" class="inner"><div class="alignleft">
-  <h1><a href="/">p2gg</a></h1>
-</div>
-<nav id="main-nav" class="alignright">
-  <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/archives">Archives</a></li>
-      <li><a href="/about">About</a></li>
-      <li><a href="/links">Links</a></li>
-  </ul>
-  <div class="clearfix"></div>
-</nav>
-<div class="clearfix"></div>
-</header>
-  <div id="content" class="inner">
-    <div id="main-col" class="alignleft"><div id="wrapper">
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2026/roco-tool/">洛克王国:世界, 图鉴工具, 属性克制计算器</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2026-04-05T04:00:00.000Z">2026-04-05</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>游戏相关工具.</p>
-            
-        </div>
-        
-
-        
+  <div class="container">
+    <div class="nav-links">
+      <a href="/home" class="nav-link">
+        Blog 首页
+      </a>
+      <a target="_blank" rel="noopener" href="https://dw.p2gg.com" class="nav-link">
+        机场推荐
+      </a>
     </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2026/awesome-shopping/">2025及历年个人年度好物推荐</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2026-02-25T13:00:00.000Z">2026-02-25</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>精选好物.</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2025/lenses-about-dry-eyes/">干眼人的湿房镜, 巩膜镜佩戴体验</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2025-10-15T16:00:00.000Z">2025-10-16</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>干眼后的物理防护经历.</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2025/echo-request-by-cloudflare-workers/">利用 Cloudflare Workers 来回显请求</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2025-07-31T05:00:00.000Z">2025-07-31</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>边缘计算实现在线 Mock 小工具.</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2024/annual-summary/">2024年年度碎碎念</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2024-12-25T16:00:00.000Z">2024-12-26</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>What doesn’t kill you makes you stronger.</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2024/shopping/">选购推荐清单</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2024-08-29T16:00:00.000Z">2024-08-30</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>之前写的<a href="/2022/life-notes">生活笔记</a>网友反馈还行, 希望我能出一份带图文和链接的, 于是就诞生了这篇.</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2023/annual-summary/">2023年年度小结</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2023-12-22T16:00:00.000Z">2023-12-23</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>copy 2020, paste 2023.</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2022/life-notes/">生活笔记</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2022-01-28T16:00:00.000Z">2022-01-29</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>丁香生活研究所的文章整理. 选购, 种草笔记. </p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2021/how-to-use-android/">如何使用 Android</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2021-04-14T16:00:00.000Z">2021-04-15</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用? </p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-  <article class="post">
-    <div class="post-content">
-        <header>
-            
-  
-    <h1 class="title"><a href="/2021/cookie-and-session/">Cookie 和 Session</a></h1>
-  
-
-            
-                <time itemprop="datePublished"
-                      datetime="2021-03-15T16:00:00.000Z">2021-03-16</time>
-            
-        </header>
-        <div class="entry">
-            
-                <p>Cookie, Session, Token, SessionId 到底是什么?</p>
-            
-        </div>
-        
-
-        
-    </div>
-</article>
-
-
-<nav id="pagination">
-  
-  
-    <a href="/page/2/" class="alignright next">下一页</a>
-  
-  <div class="clearfix"></div>
-</nav></div></div>
-    <aside id="sidebar" class="alignright">
-  
-<div class="widget tag">
-  <ul class="entry">
-    <li><a href="/tags/Android/">Android</a><small>1</small></li>
-    <li><a href="/tags/Blog/">Blog</a><small>1</small></li>
-    <li><a href="/tags/Book/">Book</a><small>2</small></li>
-    <li><a href="/tags/Dev/">Dev</a><small>1</small></li>
-    <li><a href="/tags/Docker/">Docker</a><small>1</small></li>
-    <li><a href="/tags/Essay/">Essay</a><small>8</small></li>
-    <li><a href="/tags/Game/">Game</a><small>2</small></li>
-    <li><a href="/tags/Git/">Git</a><small>1</small></li>
-    <li><a href="/tags/Hexo/">Hexo</a><small>1</small></li>
-    <li><a href="/tags/Java/">Java</a><small>5</small></li>
-    <li><a href="/tags/Lifestyle/">Lifestyle</a><small>2</small></li>
-    <li><a href="/tags/Maven/">Maven</a><small>1</small></li>
-    <li><a href="/tags/MySQL/">MySQL</a><small>1</small></li>
-    <li><a href="/tags/Network/">Network</a><small>2</small></li>
-    <li><a href="/tags/Nginx/">Nginx</a><small>1</small></li>
-    <li><a href="/tags/Note/">Note</a><small>7</small></li>
-    <li><a href="/tags/Phone/">Phone</a><small>2</small></li>
-    <li><a href="/tags/RFID/">RFID</a><small>2</small></li>
-    <li><a href="/tags/Spring/">Spring</a><small>1</small></li>
-    <li><a href="/tags/Virtual-Machine/">Virtual Machine</a><small>1</small></li>
-    <li><a href="/tags/Win10/">Win10</a><small>5</small></li>
-  </ul>
-</div>
-
-
-  <div class="widget footer">
-  <span>&copy;2017-2026 <a target="_blank" rel="noopener" href="https://github.com/thesomeexp" >thesomeexp</a></span>
-  
-  </br>
-  <span>Powered by <a target="_blank" rel="noopener" href="http://hexo.io" >Hexo</a></span>
-  </br>
-    <span>Theme by <a target="_blank" rel="noopener" href="https://github.com/thesomeexp/hexo-theme-light-simple" >hexo-theme-light-simple</a></span>
-</div>
-
-</aside>
-    <div class="clearfix"></div>
+    
   </div>
 </body>
 </html>
