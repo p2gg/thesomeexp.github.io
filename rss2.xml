@@ -5,7 +5,7 @@
     <link>https://p2gg.com/</link>
     <description>希望世界更开源, 透明与自由.</description>
     <language>zh-CN</language>
-    <copyright>All rights reserved 2026, thesomeexp</copyright>
+    <copyright>All rights reserved 2026, p2gg</copyright>
     <lastBuildDate>Sun, 05 Apr 2026 04:00:00 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <atom:link href="https://p2gg.com/rss2.xml" rel="self" type="application/rss+xml"/>
@@ -13,7 +13,7 @@
       <title>洛克王国:世界, 图鉴工具, 属性克制计算器</title>
       <link>https://p2gg.com/2026/roco-tool/</link>
       <description>游戏相关工具.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Game/">Game</category>
       <pubDate>Sun, 05 Apr 2026 04:00:00 GMT</pubDate>
     </item>
@@ -21,21 +21,21 @@
       <title>2025及历年个人年度好物推荐</title>
       <link>https://p2gg.com/2026/awesome-shopping/</link>
       <description>精选好物.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <pubDate>Wed, 25 Feb 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>干眼人的湿房镜, 巩膜镜佩戴体验</title>
       <link>https://p2gg.com/2025/lenses-about-dry-eyes/</link>
       <description>干眼后的物理防护经历.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <pubDate>Wed, 15 Oct 2025 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>利用 Cloudflare Workers 来回显请求</title>
+      <title>基于 Cloudflare Workers 回显请求</title>
       <link>https://p2gg.com/2025/echo-request-by-cloudflare-workers/</link>
       <description>边缘计算实现在线 Mock 小工具.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Dev/">Dev</category>
       <pubDate>Thu, 31 Jul 2025 05:00:00 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
       <title>2024年年度碎碎念</title>
       <link>https://p2gg.com/2024/annual-summary/</link>
       <description>What doesn't kill you makes you stronger.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Essay/">Essay</category>
       <pubDate>Wed, 25 Dec 2024 16:00:00 GMT</pubDate>
     </item>
@@ -53,15 +53,15 @@
       <description>
         <![CDATA[<p>copy 2020, paste 2023.</p>]]>
       </description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Essay/">Essay</category>
       <pubDate>Fri, 22 Dec 2023 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>生活笔记</title>
+      <title>丁香生活研究所的文章整理</title>
       <link>https://p2gg.com/2022/life-notes/</link>
-      <description>丁香生活研究所的文章整理. 选购, 种草笔记.</description>
-      <author>thesomeexp</author>
+      <description>网络文章合集整理. 选购, 种草笔记.</description>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Note/">Note</category>
       <category domain="https://p2gg.com/tags/Lifestyle/">Lifestyle</category>
       <pubDate>Fri, 28 Jan 2022 16:00:00 GMT</pubDate>
@@ -70,7 +70,7 @@
       <title>如何使用 Android</title>
       <link>https://p2gg.com/2021/how-to-use-android/</link>
       <description>使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用?</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Phone/">Phone</category>
       <category domain="https://p2gg.com/tags/Android/">Android</category>
       <pubDate>Wed, 14 Apr 2021 16:00:00 GMT</pubDate>
@@ -79,7 +79,7 @@
       <title>Cookie 和 Session</title>
       <link>https://p2gg.com/2021/cookie-and-session/</link>
       <description>Cookie, Session, Token, SessionId 到底是什么?</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Network/">Network</category>
       <pubDate>Mon, 15 Mar 2021 16:00:00 GMT</pubDate>
     </item>
@@ -87,7 +87,7 @@
       <title>MySQL 的学习</title>
       <link>https://p2gg.com/2021/mysql-learning/</link>
       <description>关于 MySQL 基础, 架构, 事物, 并发, 索引的笔记.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/MySQL/">MySQL</category>
       <pubDate>Sun, 21 Feb 2021 16:00:00 GMT</pubDate>
     </item>
@@ -95,7 +95,7 @@
       <title>Servlet 中的 Filter</title>
       <link>https://p2gg.com/2021/servlet-filter/</link>
       <description>记录一些 Tomcat 容器中常见的 Filter 和作用.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Java/">Java</category>
       <pubDate>Fri, 19 Feb 2021 16:00:00 GMT</pubDate>
     </item>
@@ -105,7 +105,7 @@
       <description>
         <![CDATA[<p>计算机相关的书单, 非计算机类的书单请请看<a href="/2020/the-book-i-read">这里这里</a>. </p>]]>
       </description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Book/">Book</category>
       <pubDate>Thu, 31 Dec 2020 16:00:00 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
       <title>2020年年度小结</title>
       <link>https://p2gg.com/2020/annual-summary/</link>
       <description>2020这年我在想些什么呢?</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Essay/">Essay</category>
       <pubDate>Tue, 29 Dec 2020 16:00:00 GMT</pubDate>
     </item>
@@ -121,7 +121,7 @@
       <title>Maven 笔记</title>
       <link>https://p2gg.com/2020/maven-notes/</link>
       <description>Maven 笔记.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Java/">Java</category>
       <category domain="https://p2gg.com/tags/Maven/">Maven</category>
       <pubDate>Sun, 29 Nov 2020 16:00:00 GMT</pubDate>
@@ -130,7 +130,7 @@
       <title>计算机网络基础知识</title>
       <link>https://p2gg.com/2020/basic-computer-network/</link>
       <description>记录计算机网络学习的笔记.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Note/">Note</category>
       <category domain="https://p2gg.com/tags/Network/">Network</category>
       <pubDate>Fri, 30 Oct 2020 16:00:00 GMT</pubDate>
@@ -139,31 +139,11 @@
       <title>Spring 的学习</title>
       <link>https://p2gg.com/2020/spring-learning/</link>
       <description>记录 Spring 的学习笔记</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Note/">Note</category>
       <category domain="https://p2gg.com/tags/Java/">Java</category>
       <category domain="https://p2gg.com/tags/Spring/">Spring</category>
       <pubDate>Mon, 26 Oct 2020 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nginx 搭建图片服务器</title>
-      <link>https://p2gg.com/2020/serve-image-with-nginx/</link>
-      <description>使用 Docker 和 Nginx 搭建图片服务器的示例.</description>
-      <author>thesomeexp</author>
-      <category domain="https://p2gg.com/tags/Note/">Note</category>
-      <category domain="https://p2gg.com/tags/Nginx/">Nginx</category>
-      <category domain="https://p2gg.com/tags/Docker/">Docker</category>
-      <pubDate>Fri, 12 Jun 2020 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速操作笔记</title>
-      <link>https://p2gg.com/2020/quick-operation-note/</link>
-      <description>
-        <![CDATA[<p>那些搜索过两次以上的解决办法. </p>]]>
-      </description>
-      <author>thesomeexp</author>
-      <category domain="https://p2gg.com/tags/Note/">Note</category>
-      <pubDate>Thu, 28 May 2020 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>看过的书</title>
@@ -171,7 +151,7 @@
       <description>
         <![CDATA[<p>非计算机相关的书单. 计算机类的书单请请看<a href="/2021/books-about-computer-science">这里这里</a>. </p>]]>
       </description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Essay/">Essay</category>
       <category domain="https://p2gg.com/tags/Book/">Book</category>
       <pubDate>Wed, 13 May 2020 16:00:00 GMT</pubDate>
@@ -180,9 +160,25 @@
       <title>Scoop 笔记</title>
       <link>https://p2gg.com/2020/scoop-notes/</link>
       <description>简单记录下 Scoop 使用指南.</description>
-      <author>thesomeexp</author>
+      <author>p2gg</author>
       <category domain="https://p2gg.com/tags/Win10/">Win10</category>
       <pubDate>Wed, 06 May 2020 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Java 中 String 类的浅克隆和深克隆</title>
+      <link>https://p2gg.com/2020/shallow-clone-and-deep-clone-of-string-in-java/</link>
+      <description>Java 中 String 对象是如何进行克隆的</description>
+      <author>p2gg</author>
+      <category domain="https://p2gg.com/tags/Java/">Java</category>
+      <pubDate>Tue, 24 Mar 2020 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 windows10</title>
+      <link>https://p2gg.com/2020/how-to-use-windows10/</link>
+      <description>使用 Windows 10 的指南. 正确使用姿势是什么?</description>
+      <author>p2gg</author>
+      <category domain="https://p2gg.com/tags/Win10/">Win10</category>
+      <pubDate>Fri, 07 Feb 2020 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

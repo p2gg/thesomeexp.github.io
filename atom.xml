@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>thesomeexp</name>
+    <name>p2gg</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://p2gg.com/</id>
   <link href="https://p2gg.com/" rel="alternate"/>
   <link href="https://p2gg.com/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, thesomeexp</rights>
+  <rights>All rights reserved 2026, p2gg</rights>
   <subtitle>希望世界更开源, 透明与自由.</subtitle>
   <title>p2gg</title>
   <updated>2026-04-05T04:00:00.000Z</updated>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Game" scheme="https://p2gg.com/tags/Game/"/>
     <id>https://p2gg.com/2026/roco-tool/</id>
@@ -25,7 +25,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <id>https://p2gg.com/2026/awesome-shopping/</id>
     <link href="https://p2gg.com/2026/awesome-shopping/"/>
@@ -36,7 +36,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <id>https://p2gg.com/2025/lenses-about-dry-eyes/</id>
     <link href="https://p2gg.com/2025/lenses-about-dry-eyes/"/>
@@ -47,19 +47,19 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Dev" scheme="https://p2gg.com/tags/Dev/"/>
     <id>https://p2gg.com/2025/echo-request-by-cloudflare-workers/</id>
     <link href="https://p2gg.com/2025/echo-request-by-cloudflare-workers/"/>
     <published>2025-07-31T05:00:00.000Z</published>
     <summary>边缘计算实现在线 Mock 小工具.</summary>
-    <title>利用 Cloudflare Workers 来回显请求</title>
+    <title>基于 Cloudflare Workers 回显请求</title>
     <updated>2025-07-31T05:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
     <id>https://p2gg.com/2024/annual-summary/</id>
@@ -71,7 +71,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
     <id>https://p2gg.com/2023/annual-summary/</id>
@@ -85,20 +85,20 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
     <category term="Lifestyle" scheme="https://p2gg.com/tags/Lifestyle/"/>
     <id>https://p2gg.com/2022/life-notes/</id>
     <link href="https://p2gg.com/2022/life-notes/"/>
     <published>2022-01-28T16:00:00.000Z</published>
-    <summary>丁香生活研究所的文章整理. 选购, 种草笔记.</summary>
-    <title>生活笔记</title>
+    <summary>网络文章合集整理. 选购, 种草笔记.</summary>
+    <title>丁香生活研究所的文章整理</title>
     <updated>2022-05-29T16:00:00.000Z</updated>
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Phone" scheme="https://p2gg.com/tags/Phone/"/>
     <category term="Android" scheme="https://p2gg.com/tags/Android/"/>
@@ -111,7 +111,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
     <id>https://p2gg.com/2021/cookie-and-session/</id>
@@ -123,7 +123,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="MySQL" scheme="https://p2gg.com/tags/MySQL/"/>
     <id>https://p2gg.com/2021/mysql-learning/</id>
@@ -135,7 +135,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
     <id>https://p2gg.com/2021/servlet-filter/</id>
@@ -147,7 +147,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
     <id>https://p2gg.com/2021/books-about-computer-science/</id>
@@ -161,7 +161,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
     <id>https://p2gg.com/2020/annual-summary/</id>
@@ -173,7 +173,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
     <category term="Maven" scheme="https://p2gg.com/tags/Maven/"/>
@@ -186,7 +186,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
     <category term="Network" scheme="https://p2gg.com/tags/Network/"/>
@@ -199,7 +199,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
     <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
@@ -213,35 +213,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
-    </author>
-    <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    <category term="Nginx" scheme="https://p2gg.com/tags/Nginx/"/>
-    <category term="Docker" scheme="https://p2gg.com/tags/Docker/"/>
-    <id>https://p2gg.com/2020/serve-image-with-nginx/</id>
-    <link href="https://p2gg.com/2020/serve-image-with-nginx/"/>
-    <published>2020-06-12T16:00:00.000Z</published>
-    <summary>使用 Docker 和 Nginx 搭建图片服务器的示例.</summary>
-    <title>Nginx 搭建图片服务器</title>
-    <updated>2022-05-29T16:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>thesomeexp</name>
-    </author>
-    <category term="Note" scheme="https://p2gg.com/tags/Note/"/>
-    <id>https://p2gg.com/2020/quick-operation-note/</id>
-    <link href="https://p2gg.com/2020/quick-operation-note/"/>
-    <published>2020-05-28T16:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>那些搜索过两次以上的解决办法. </p>]]>
-    </summary>
-    <title>快速操作笔记</title>
-    <updated>2020-05-28T16:00:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Essay" scheme="https://p2gg.com/tags/Essay/"/>
     <category term="Book" scheme="https://p2gg.com/tags/Book/"/>
@@ -256,7 +228,7 @@
   </entry>
   <entry>
     <author>
-      <name>thesomeexp</name>
+      <name>p2gg</name>
     </author>
     <category term="Win10" scheme="https://p2gg.com/tags/Win10/"/>
     <id>https://p2gg.com/2020/scoop-notes/</id>
@@ -265,5 +237,29 @@
     <summary>简单记录下 Scoop 使用指南.</summary>
     <title>Scoop 笔记</title>
     <updated>2022-11-15T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>p2gg</name>
+    </author>
+    <category term="Java" scheme="https://p2gg.com/tags/Java/"/>
+    <id>https://p2gg.com/2020/shallow-clone-and-deep-clone-of-string-in-java/</id>
+    <link href="https://p2gg.com/2020/shallow-clone-and-deep-clone-of-string-in-java/"/>
+    <published>2020-03-24T16:00:00.000Z</published>
+    <summary>Java 中 String 对象是如何进行克隆的</summary>
+    <title>关于 Java 中 String 类的浅克隆和深克隆</title>
+    <updated>2022-05-29T16:00:00.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>p2gg</name>
+    </author>
+    <category term="Win10" scheme="https://p2gg.com/tags/Win10/"/>
+    <id>https://p2gg.com/2020/how-to-use-windows10/</id>
+    <link href="https://p2gg.com/2020/how-to-use-windows10/"/>
+    <published>2020-02-07T16:00:00.000Z</published>
+    <summary>使用 Windows 10 的指南. 正确使用姿势是什么?</summary>
+    <title>如何使用 windows10</title>
+    <updated>2024-08-22T16:00:00.000Z</updated>
   </entry>
 </feed>
